@@ -1,0 +1,502 @@
+[
+	{
+		"id": 1,
+		"uspjeh_na_kolegiju": 4,
+		"uspjeh_na _fakultetu": 3
+	},
+	{
+		"id": 2,
+		"uspjeh_na_kolegiju": 5,
+		"uspjeh_na _fakultetu": 3
+	},
+	{
+		"id": 3,
+		"uspjeh_na_kolegiju": 3,
+		"uspjeh_na _fakultetu": 3
+	},
+	{
+		"id": 4,
+		"uspjeh_na_kolegiju": 3,
+		"uspjeh_na _fakultetu": 3
+	},
+	{
+		"id": 5,
+		"uspjeh_na_kolegiju": 5,
+		"uspjeh_na _fakultetu": 3
+	},
+	{
+		"id": 6,
+		"uspjeh_na_kolegiju": 3,
+		"uspjeh_na _fakultetu": 5
+	},
+	{
+		"id": 7,
+		"uspjeh_na_kolegiju": 2,
+		"uspjeh_na _fakultetu": 4
+	},
+	{
+		"id": 8,
+		"uspjeh_na_kolegiju": 4,
+		"uspjeh_na _fakultetu": 4
+	},
+	{
+		"id": 9,
+		"uspjeh_na_kolegiju": 4,
+		"uspjeh_na _fakultetu": 3
+	},
+	{
+		"id": 10,
+		"uspjeh_na_kolegiju": 3,
+		"uspjeh_na _fakultetu": 3
+	},
+	{
+		"id": 11,
+		"uspjeh_na_kolegiju": 5,
+		"uspjeh_na _fakultetu": 3
+	},
+	{
+		"id": 12,
+		"uspjeh_na_kolegiju": 2,
+		"uspjeh_na _fakultetu": 4
+	},
+	{
+		"id": 13,
+		"uspjeh_na_kolegiju": 4,
+		"uspjeh_na _fakultetu": 2
+	},
+	{
+		"id": 14,
+		"uspjeh_na_kolegiju": 3,
+		"uspjeh_na _fakultetu": 5
+	},
+	{
+		"id": 15,
+		"uspjeh_na_kolegiju": 2,
+		"uspjeh_na _fakultetu": 2
+	},
+	{
+		"id": 16,
+		"uspjeh_na_kolegiju": 4,
+		"uspjeh_na _fakultetu": 3
+	},
+	{
+		"id": 17,
+		"uspjeh_na_kolegiju": 4,
+		"uspjeh_na _fakultetu": 4
+	},
+	{
+		"id": 18,
+		"uspjeh_na_kolegiju": 3,
+		"uspjeh_na _fakultetu": 2
+	},
+	{
+		"id": 19,
+		"uspjeh_na_kolegiju": 3,
+		"uspjeh_na _fakultetu": 3
+	},
+	{
+		"id": 20,
+		"uspjeh_na_kolegiju": 4,
+		"uspjeh_na _fakultetu": 5
+	},
+	{
+		"id": 21,
+		"uspjeh_na_kolegiju": 4,
+		"uspjeh_na _fakultetu": 4
+	},
+	{
+		"id": 22,
+		"uspjeh_na_kolegiju": 3,
+		"uspjeh_na _fakultetu": 3
+	},
+	{
+		"id": 23,
+		"uspjeh_na_kolegiju": 3,
+		"uspjeh_na _fakultetu": 2
+	},
+	{
+		"id": 24,
+		"uspjeh_na_kolegiju": 5,
+		"uspjeh_na _fakultetu": 3
+	},
+	{
+		"id": 25,
+		"uspjeh_na_kolegiju": 4,
+		"uspjeh_na _fakultetu": 3
+	},
+	{
+		"id": 26,
+		"uspjeh_na_kolegiju": 4,
+		"uspjeh_na _fakultetu": 5
+	},
+	{
+		"id": 27,
+		"uspjeh_na_kolegiju": 5,
+		"uspjeh_na _fakultetu": 5
+	},
+	{
+		"id": 28,
+		"uspjeh_na_kolegiju": 5,
+		"uspjeh_na _fakultetu": 5
+	},
+	{
+		"id": 29,
+		"uspjeh_na_kolegiju": 3,
+		"uspjeh_na _fakultetu": 5
+	},
+	{
+		"id": 30,
+		"uspjeh_na_kolegiju": 2,
+		"uspjeh_na _fakultetu": 4
+	},
+	{
+		"id": 31,
+		"uspjeh_na_kolegiju": 4,
+		"uspjeh_na _fakultetu": 3
+	},
+	{
+		"id": 32,
+		"uspjeh_na_kolegiju": 3,
+		"uspjeh_na _fakultetu": 2
+	},
+	{
+		"id": 33,
+		"uspjeh_na_kolegiju": 5,
+		"uspjeh_na _fakultetu": 3
+	},
+	{
+		"id": 34,
+		"uspjeh_na_kolegiju": 4,
+		"uspjeh_na _fakultetu": 4
+	},
+	{
+		"id": 35,
+		"uspjeh_na_kolegiju": 4,
+		"uspjeh_na _fakultetu": 3
+	},
+	{
+		"id": 36,
+		"uspjeh_na_kolegiju": 4,
+		"uspjeh_na _fakultetu": 4
+	},
+	{
+		"id": 37,
+		"uspjeh_na_kolegiju": 2,
+		"uspjeh_na _fakultetu": 2
+	},
+	{
+		"id": 38,
+		"uspjeh_na_kolegiju": 5,
+		"uspjeh_na _fakultetu": 2
+	},
+	{
+		"id": 39,
+		"uspjeh_na_kolegiju": 3,
+		"uspjeh_na _fakultetu": 4
+	},
+	{
+		"id": 40,
+		"uspjeh_na_kolegiju": 3,
+		"uspjeh_na _fakultetu": 2
+	},
+	{
+		"id": 41,
+		"uspjeh_na_kolegiju": 2,
+		"uspjeh_na _fakultetu": 5
+	},
+	{
+		"id": 42,
+		"uspjeh_na_kolegiju": 3,
+		"uspjeh_na _fakultetu": 4
+	},
+	{
+		"id": 43,
+		"uspjeh_na_kolegiju": 4,
+		"uspjeh_na _fakultetu": 5
+	},
+	{
+		"id": 44,
+		"uspjeh_na_kolegiju": 5,
+		"uspjeh_na _fakultetu": 3
+	},
+	{
+		"id": 45,
+		"uspjeh_na_kolegiju": 3,
+		"uspjeh_na _fakultetu": 3
+	},
+	{
+		"id": 46,
+		"uspjeh_na_kolegiju": 3,
+		"uspjeh_na _fakultetu": 3
+	},
+	{
+		"id": 47,
+		"uspjeh_na_kolegiju": 5,
+		"uspjeh_na _fakultetu": 5
+	},
+	{
+		"id": 48,
+		"uspjeh_na_kolegiju": 4,
+		"uspjeh_na _fakultetu": 5
+	},
+	{
+		"id": 49,
+		"uspjeh_na_kolegiju": 3,
+		"uspjeh_na _fakultetu": 5
+	},
+	{
+		"id": 50,
+		"uspjeh_na_kolegiju": 3,
+		"uspjeh_na _fakultetu": 3
+	},
+	{
+		"id": 51,
+		"uspjeh_na_kolegiju": 2,
+		"uspjeh_na _fakultetu": 3
+	},
+	{
+		"id": 52,
+		"uspjeh_na_kolegiju": 3,
+		"uspjeh_na _fakultetu": 4
+	},
+	{
+		"id": 53,
+		"uspjeh_na_kolegiju": 4,
+		"uspjeh_na _fakultetu": 4
+	},
+	{
+		"id": 54,
+		"uspjeh_na_kolegiju": 4,
+		"uspjeh_na _fakultetu": 3
+	},
+	{
+		"id": 55,
+		"uspjeh_na_kolegiju": 3,
+		"uspjeh_na _fakultetu": 4
+	},
+	{
+		"id": 56,
+		"uspjeh_na_kolegiju": 3,
+		"uspjeh_na _fakultetu": 5
+	},
+	{
+		"id": 57,
+		"uspjeh_na_kolegiju": 4,
+		"uspjeh_na _fakultetu": 3
+	},
+	{
+		"id": 58,
+		"uspjeh_na_kolegiju": 5,
+		"uspjeh_na _fakultetu": 4
+	},
+	{
+		"id": 59,
+		"uspjeh_na_kolegiju": 2,
+		"uspjeh_na _fakultetu": 4
+	},
+	{
+		"id": 60,
+		"uspjeh_na_kolegiju": 4,
+		"uspjeh_na _fakultetu": 2
+	},
+	{
+		"id": 61,
+		"uspjeh_na_kolegiju": 3,
+		"uspjeh_na _fakultetu": 2
+	},
+	{
+		"id": 62,
+		"uspjeh_na_kolegiju": 2,
+		"uspjeh_na _fakultetu": 3
+	},
+	{
+		"id": 63,
+		"uspjeh_na_kolegiju": 3,
+		"uspjeh_na _fakultetu": 2
+	},
+	{
+		"id": 64,
+		"uspjeh_na_kolegiju": 5,
+		"uspjeh_na _fakultetu": 4
+	},
+	{
+		"id": 65,
+		"uspjeh_na_kolegiju": 4,
+		"uspjeh_na _fakultetu": 3
+	},
+	{
+		"id": 66,
+		"uspjeh_na_kolegiju": 2,
+		"uspjeh_na _fakultetu": 4
+	},
+	{
+		"id": 67,
+		"uspjeh_na_kolegiju": 4,
+		"uspjeh_na _fakultetu": 3
+	},
+	{
+		"id": 68,
+		"uspjeh_na_kolegiju": 3,
+		"uspjeh_na _fakultetu": 5
+	},
+	{
+		"id": 69,
+		"uspjeh_na_kolegiju": 3,
+		"uspjeh_na _fakultetu": 3
+	},
+	{
+		"id": 70,
+		"uspjeh_na_kolegiju": 3,
+		"uspjeh_na _fakultetu": 5
+	},
+	{
+		"id": 71,
+		"uspjeh_na_kolegiju": 3,
+		"uspjeh_na _fakultetu": 3
+	},
+	{
+		"id": 72,
+		"uspjeh_na_kolegiju": 4,
+		"uspjeh_na _fakultetu": 5
+	},
+	{
+		"id": 73,
+		"uspjeh_na_kolegiju": 5,
+		"uspjeh_na _fakultetu": 4
+	},
+	{
+		"id": 74,
+		"uspjeh_na_kolegiju": 3,
+		"uspjeh_na _fakultetu": 5
+	},
+	{
+		"id": 75,
+		"uspjeh_na_kolegiju": 3,
+		"uspjeh_na _fakultetu": 5
+	},
+	{
+		"id": 76,
+		"uspjeh_na_kolegiju": 4,
+		"uspjeh_na _fakultetu": 4
+	},
+	{
+		"id": 77,
+		"uspjeh_na_kolegiju": 4,
+		"uspjeh_na _fakultetu": 3
+	},
+	{
+		"id": 78,
+		"uspjeh_na_kolegiju": 2,
+		"uspjeh_na _fakultetu": 4
+	},
+	{
+		"id": 79,
+		"uspjeh_na_kolegiju": 3,
+		"uspjeh_na _fakultetu": 2
+	},
+	{
+		"id": 80,
+		"uspjeh_na_kolegiju": 4,
+		"uspjeh_na _fakultetu": 4
+	},
+	{
+		"id": 81,
+		"uspjeh_na_kolegiju": 4,
+		"uspjeh_na _fakultetu": 4
+	},
+	{
+		"id": 82,
+		"uspjeh_na_kolegiju": 4,
+		"uspjeh_na _fakultetu": 2
+	},
+	{
+		"id": 83,
+		"uspjeh_na_kolegiju": 2,
+		"uspjeh_na _fakultetu": 4
+	},
+	{
+		"id": 84,
+		"uspjeh_na_kolegiju": 2,
+		"uspjeh_na _fakultetu": 3
+	},
+	{
+		"id": 85,
+		"uspjeh_na_kolegiju": 4,
+		"uspjeh_na _fakultetu": 3
+	},
+	{
+		"id": 86,
+		"uspjeh_na_kolegiju": 2,
+		"uspjeh_na _fakultetu": 5
+	},
+	{
+		"id": 87,
+		"uspjeh_na_kolegiju": 4,
+		"uspjeh_na _fakultetu": 3
+	},
+	{
+		"id": 88,
+		"uspjeh_na_kolegiju": 4,
+		"uspjeh_na _fakultetu": 2
+	},
+	{
+		"id": 89,
+		"uspjeh_na_kolegiju": 4,
+		"uspjeh_na _fakultetu": 3
+	},
+	{
+		"id": 90,
+		"uspjeh_na_kolegiju": 4,
+		"uspjeh_na _fakultetu": 2
+	},
+	{
+		"id": 91,
+		"uspjeh_na_kolegiju": 4,
+		"uspjeh_na _fakultetu": 5
+	},
+	{
+		"id": 92,
+		"uspjeh_na_kolegiju": 4,
+		"uspjeh_na _fakultetu": 3
+	},
+	{
+		"id": 93,
+		"uspjeh_na_kolegiju": 3,
+		"uspjeh_na _fakultetu": 2
+	},
+	{
+		"id": 94,
+		"uspjeh_na_kolegiju": 5,
+		"uspjeh_na _fakultetu": 3
+	},
+	{
+		"id": 95,
+		"uspjeh_na_kolegiju": 3,
+		"uspjeh_na _fakultetu": 3
+	},
+	{
+		"id": 96,
+		"uspjeh_na_kolegiju": 2,
+		"uspjeh_na _fakultetu": 5
+	},
+	{
+		"id": 97,
+		"uspjeh_na_kolegiju": 3,
+		"uspjeh_na _fakultetu": 3
+	},
+	{
+		"id": 98,
+		"uspjeh_na_kolegiju": 3,
+		"uspjeh_na _fakultetu": 4
+	},
+	{
+		"id": 99,
+		"uspjeh_na_kolegiju": 4,
+		"uspjeh_na _fakultetu": 3
+	},
+	{
+		"id": 100,
+		"uspjeh_na_kolegiju": 3,
+		"uspjeh_na _fakultetu": 2
+	}
+]

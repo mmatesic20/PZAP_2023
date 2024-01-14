@@ -1,0 +1,101 @@
+,id,godina_studiranja,duzina_sna,kvaliteta_sna,lijeganje,budenje,budenje_tijekom_noci,problemi_sa_spavanjem,nap_tijekom_dana,all_nighter_prije_ispita,naspavanost,uspjeh_na_kolegiju,uspjeh_na _fakultetu,ime,prezime
+0,1,3,Normalno,0.4,5:23 PM,9:30 AM,0.5,Yes,No,Yes,0.0,vrlo dobar,dobar,Wanda,Maldonado
+1,2,3,Dugo,0.4,12:57 AM,8:35 AM,0.0,Yes,Yes,No,0.0,odličan,dobar,Leonard,Norris
+2,3,1,Normalno,0.2,6:10 AM,9:31 AM,0.5,No,No,No,0.25,dobar,dobar,Gretchen,Joseph
+3,4,2,Kratko,0.8,11:28 AM,8:02 AM,1.0,No,No,No,1.0,dobar,dobar,Erica,Shaw
+4,5,3,Kratko,0.2,6:11 AM,9:30 AM,0.0,Yes,Yes,No,0.25,odličan,dobar,Kirk,Sears
+5,6,2,Kratko,0.8,5:45 AM,8:11 AM,0.0,Yes,No,Yes,0.5,dobar,odličan,Mohammad,Lewis
+6,7,1,Normalno,0.6000000000000001,3:43 PM,5:54 AM,0.5,No,Yes,No,0.25,dovoljan,vrlo dobar,Athena,Montgomery
+7,8,2,Kratko,0.0,6:23 PM,5:31 AM,0.0,No,Yes,No,0.0,vrlo dobar,vrlo dobar,Keefe,Juarez
+8,9,1,Normalno,0.6000000000000001,12:52 PM,5:37 AM,0.5,No,Yes,No,1.0,vrlo dobar,dobar,Dora,Kerr
+9,10,2,,0.0,5:15 AM,8:05 AM,1.0,No,Yes,No,0.5,dobar,dobar,Willa,Workman
+10,11,1,Normalno,1.0,12:30 PM,4:28 AM,0.5,No,No,Yes,0.5,odličan,dobar,Anastasia,Yang
+11,12,2,Kratko,0.8,4:56 AM,7:55 AM,1.0,No,Yes,No,0.75,dovoljan,vrlo dobar,Inga,Sparks
+12,13,2,Kratko,1.0,9:10 AM,5:38 AM,0.5,Yes,Yes,No,0.75,vrlo dobar,dovoljan,Cruz,Foreman
+13,14,2,Dugo,0.8,8:35 AM,6:06 AM,0.5,No,No,No,0.5,dobar,odličan,Melissa,Johnson
+14,15,3,Normalno,0.0,6:58 AM,4:08 AM,1.0,Yes,Yes,Yes,0.5,dovoljan,dovoljan,Blake,Franks
+15,16,3,Kratko,0.4,10:10 PM,7:08 AM,0.5,No,No,No,0.0,vrlo dobar,dobar,Hayley,Bowen
+16,17,1,Kratko,0.8,6:07 AM,5:09 AM,0.5,No,Yes,No,0.75,vrlo dobar,vrlo dobar,Joshua,Estes
+17,18,3,,0.2,12:54 AM,7:00 AM,0.5,Yes,No,Yes,0.5,dobar,dovoljan,Lavinia,Merrill
+18,19,2,Kratko,0.6000000000000001,6:40 PM,8:58 AM,0.5,Yes,Yes,Yes,0.0,dobar,dobar,Adara,Sullivan
+19,20,3,Normalno,1.0,9:30 PM,8:06 AM,0.5,No,Yes,No,0.75,vrlo dobar,odličan,Megan,Chavez
+20,21,1,Kratko,0.6000000000000001,6:17 AM,8:48 AM,0.5,No,Yes,Yes,0.0,vrlo dobar,vrlo dobar,Ann,Larsen
+21,22,2,Normalno,0.4,4:43 AM,8:39 AM,0.5,Yes,No,Yes,0.5,dobar,dobar,Jeanette,Key
+22,23,2,Kratko,0.8,1:01 AM,7:26 AM,0.0,No,No,Yes,0.5,dobar,dovoljan,Simon,Kennedy
+23,24,3,Kratko,0.2,5:12 AM,8:29 AM,0.0,No,No,No,1.0,odličan,dobar,Moana,Grimes
+24,25,2,,0.6000000000000001,11:07 PM,9:46 AM,0.0,No,Yes,Yes,0.5,vrlo dobar,dobar,Christopher,Herrera
+25,26,3,Kratko,0.6000000000000001,7:11 PM,9:46 AM,1.0,No,Yes,No,0.5,vrlo dobar,odličan,Gillian,Hopkins
+26,27,2,Kratko,0.2,8:02 AM,6:25 AM,0.0,Yes,Yes,Yes,0.0,odličan,odličan,Lenore,Parsons
+27,28,3,Kratko,0.8,5:48 PM,4:11 AM,0.0,No,Yes,Yes,0.25,odličan,odličan,Amal,Leach
+28,29,2,Normalno,0.0,2:29 PM,7:24 AM,0.0,No,No,No,0.75,dobar,odličan,Dara,Wilkinson
+29,30,1,Kratko,0.4,12:58 PM,9:09 AM,1.0,Yes,Yes,Yes,0.25,dovoljan,vrlo dobar,Kane,Jacobs
+30,31,1,Kratko,0.6000000000000001,3:41 PM,5:17 AM,1.0,Yes,Yes,No,1.0,vrlo dobar,dobar,Colby,Flynn
+31,32,2,Dugo,0.4,11:01 PM,8:08 AM,0.0,Yes,Yes,Yes,0.5,dobar,dovoljan,Michael,Gallagher
+32,33,2,Kratko,0.2,2:37 PM,6:33 AM,1.0,Yes,No,Yes,0.0,odličan,dobar,Montana,Simon
+33,34,2,Kratko,0.0,12:05 PM,7:08 AM,0.0,No,No,No,0.25,vrlo dobar,vrlo dobar,Kieran,Mcdowell
+34,35,3,Kratko,0.4,1:50 PM,4:01 AM,0.5,No,Yes,Yes,0.75,vrlo dobar,dobar,Kelsey,Britt
+35,36,2,Kratko,0.4,3:21 PM,5:46 AM,1.0,No,No,Yes,0.75,vrlo dobar,vrlo dobar,Drake,Hawkins
+36,37,3,Normalno,0.6000000000000001,2:41 PM,7:29 AM,0.5,No,No,No,0.25,dovoljan,dovoljan,Gregory,Wooten
+37,38,1,Kratko,0.8,5:47 AM,9:09 AM,1.0,Yes,No,No,0.0,odličan,dovoljan,Noah,Alexander
+38,39,2,Kratko,0.2,3:42 PM,5:23 AM,0.5,No,Yes,No,0.75,dobar,vrlo dobar,Linus,Kennedy
+39,40,1,,1.0,5:27 PM,6:02 AM,0.5,Yes,No,Yes,0.25,dobar,dovoljan,Hermione,Page
+40,41,2,Kratko,0.4,1:51 PM,6:40 AM,0.0,Yes,No,Yes,0.5,dovoljan,odličan,Nasim,Bush
+41,42,3,,0.4,9:39 AM,4:30 AM,0.5,Yes,No,Yes,0.75,dobar,vrlo dobar,Jerome,Lynch
+42,43,2,Kratko,0.8,2:26 PM,8:37 AM,0.0,No,Yes,No,1.0,vrlo dobar,odličan,Salvador,Levy
+43,44,3,Dugo,0.6000000000000001,1:07 AM,6:24 AM,0.5,No,No,Yes,0.0,odličan,dobar,Jerome,Bush
+44,45,3,Kratko,0.6000000000000001,3:55 PM,9:44 AM,0.5,No,No,No,0.5,dobar,dobar,Chantale,Irwin
+45,46,1,Normalno,0.0,8:16 PM,5:39 AM,1.0,No,No,No,0.0,dobar,dobar,Jonas,Parsons
+46,47,2,,1.0,9:57 PM,8:30 AM,1.0,Yes,Yes,No,1.0,odličan,odličan,Tate,Holland
+47,48,1,Kratko,0.4,2:30 PM,7:03 AM,1.0,No,Yes,Yes,1.0,vrlo dobar,odličan,Colorado,Johnson
+48,49,1,Kratko,0.0,1:47 AM,9:27 AM,0.0,No,Yes,Yes,0.75,dobar,odličan,Quintessa,Grimes
+49,50,3,Normalno,1.0,1:26 AM,8:55 AM,0.0,No,Yes,No,0.5,dobar,dobar,Nadine,Cobb
+50,51,2,Normalno,0.6000000000000001,10:37 PM,9:57 AM,0.5,No,Yes,Yes,0.75,dovoljan,dobar,Aristotle,Strickland
+51,52,2,Normalno,0.6000000000000001,6:34 PM,7:35 AM,0.5,Yes,Yes,No,1.0,dobar,vrlo dobar,Galvin,Glenn
+52,53,2,Dugo,0.8,2:11 AM,9:53 AM,0.0,No,No,No,0.0,vrlo dobar,vrlo dobar,Linda,Hardy
+53,54,3,Normalno,0.0,11:37 AM,9:59 AM,0.5,No,Yes,No,0.75,vrlo dobar,dobar,Adrian,Burgess
+54,55,1,Kratko,0.6000000000000001,1:09 PM,7:19 AM,1.0,No,Yes,No,0.0,dobar,vrlo dobar,Olympia,Gutierrez
+55,56,2,Normalno,1.0,5:03 PM,9:55 AM,1.0,No,No,Yes,0.75,dobar,odličan,Illiana,Hammond
+56,57,3,Kratko,0.4,9:06 AM,6:52 AM,0.5,Yes,Yes,No,0.5,vrlo dobar,dobar,Stone,Henson
+57,58,3,Kratko,0.6000000000000001,8:32 PM,7:31 AM,0.5,Yes,Yes,No,0.25,odličan,vrlo dobar,Xanthus,Dean
+58,59,2,Kratko,0.4,7:25 PM,6:24 AM,1.0,No,Yes,Yes,0.75,dovoljan,vrlo dobar,Walter,Mccall
+59,60,1,Kratko,0.0,5:09 AM,7:12 AM,0.0,No,No,Yes,0.5,vrlo dobar,dovoljan,Mannix,Gay
+60,61,1,Kratko,0.2,9:03 AM,9:59 AM,1.0,Yes,No,Yes,0.75,dobar,dovoljan,Adrienne,James
+61,62,2,Kratko,0.6000000000000001,6:13 PM,5:50 AM,0.0,No,No,Yes,0.75,dovoljan,dobar,Tarik,Mclean
+62,63,1,Kratko,0.4,7:44 AM,8:31 AM,1.0,No,Yes,Yes,1.0,dobar,dovoljan,Caldwell,Carter
+63,64,1,Kratko,0.8,11:23 AM,4:10 AM,0.5,Yes,No,No,0.75,odličan,vrlo dobar,Amena,Pena
+64,65,2,Normalno,0.2,11:23 PM,8:33 AM,0.5,No,No,No,0.5,vrlo dobar,dobar,Ira,Swanson
+65,66,3,Dugo,0.8,6:27 PM,4:39 AM,1.0,No,No,Yes,1.0,dovoljan,vrlo dobar,Margaret,Saunders
+66,67,1,Kratko,0.4,10:38 AM,7:53 AM,0.5,No,Yes,No,0.5,vrlo dobar,dobar,Victoria,Nixon
+67,68,2,Kratko,1.0,10:09 PM,6:45 AM,1.0,Yes,No,Yes,0.75,dobar,odličan,Gareth,Vincent
+68,69,3,Kratko,0.6000000000000001,2:36 PM,7:28 AM,0.0,No,Yes,No,0.25,dobar,dobar,Cedric,Kinney
+69,70,1,Dugo,0.8,9:56 PM,6:45 AM,0.5,No,No,No,0.25,dobar,odličan,Ivory,Andrews
+70,71,2,Kratko,0.6000000000000001,8:30 AM,8:52 AM,0.5,No,Yes,No,1.0,dobar,dobar,Ursula,Fisher
+71,72,3,Kratko,0.0,5:20 PM,8:49 AM,0.0,No,Yes,Yes,0.25,vrlo dobar,odličan,Chaim,Andrews
+72,73,2,Normalno,0.6000000000000001,10:38 AM,4:29 AM,0.0,Yes,No,No,0.5,odličan,vrlo dobar,Barry,Randolph
+73,74,2,Normalno,0.2,12:15 PM,5:14 AM,1.0,No,Yes,Yes,0.5,dobar,odličan,Bo,Chen
+74,75,1,,0.2,11:07 PM,7:43 AM,0.5,No,Yes,No,0.75,dobar,odličan,Rylee,Mayo
+75,76,1,Dugo,0.6000000000000001,1:07 PM,5:22 AM,0.0,Yes,Yes,No,0.5,vrlo dobar,vrlo dobar,Ora,Medina
+76,77,1,Dugo,0.6000000000000001,4:35 AM,7:06 AM,1.0,No,No,Yes,0.25,vrlo dobar,dobar,Desirae,Davis
+77,78,3,Normalno,0.6000000000000001,2:30 PM,8:08 AM,1.0,Yes,Yes,No,0.5,dovoljan,vrlo dobar,Fiona,Hampton
+78,79,2,Kratko,0.4,7:22 PM,5:11 AM,0.0,No,No,Yes,0.25,dobar,dovoljan,Walter,Clark
+79,80,2,Kratko,0.8,6:09 PM,8:34 AM,0.0,No,No,Yes,0.75,vrlo dobar,vrlo dobar,Alexander,Schroeder
+80,81,2,Normalno,0.8,12:24 PM,6:57 AM,0.5,No,No,Yes,0.5,vrlo dobar,vrlo dobar,Emmanuel,Hebert
+81,82,3,Normalno,0.2,11:47 PM,9:08 AM,0.0,No,Yes,Yes,0.25,vrlo dobar,dovoljan,Joelle,Cooke
+82,83,3,Normalno,0.8,5:25 AM,9:27 AM,0.0,Yes,No,No,0.5,dovoljan,vrlo dobar,Ori,Mccarty
+83,84,1,Kratko,1.0,10:49 PM,6:43 AM,0.0,Yes,No,No,0.0,dovoljan,dobar,Ramona,Sampson
+84,85,2,Kratko,0.8,12:50 PM,5:52 AM,0.0,Yes,No,Yes,0.25,vrlo dobar,dobar,Miranda,Baldwin
+85,86,3,Kratko,0.2,9:28 PM,8:07 AM,0.0,No,No,No,0.25,dovoljan,odličan,Ria,Owen
+86,87,2,Dugo,0.6000000000000001,5:15 PM,5:23 AM,0.0,No,No,No,0.5,vrlo dobar,dobar,Alika,Jimenez
+87,88,2,Dugo,0.4,10:23 PM,6:52 AM,1.0,Yes,Yes,No,0.25,vrlo dobar,dovoljan,Aspen,Price
+88,89,2,Kratko,0.2,8:37 AM,9:56 AM,0.5,Yes,No,Yes,0.5,vrlo dobar,dobar,Raven,Tyler
+89,90,1,Kratko,0.8,2:47 AM,7:36 AM,1.0,No,No,No,0.75,vrlo dobar,dovoljan,Walter,Hawkins
+90,91,1,Dugo,1.0,2:41 PM,6:17 AM,0.5,Yes,No,Yes,1.0,vrlo dobar,odličan,Malcolm,Long
+91,92,2,Kratko,0.8,5:11 PM,8:57 AM,1.0,No,No,Yes,0.25,vrlo dobar,dobar,Veronica,Kemp
+92,93,3,Dugo,0.4,1:44 AM,9:32 AM,0.5,No,No,Yes,0.5,dobar,dovoljan,Sacha,Farrell
+93,94,2,Kratko,0.6000000000000001,7:27 AM,7:47 AM,0.0,Yes,No,No,0.5,odličan,dobar,Ebony,Dejesus
+94,95,2,Kratko,0.8,6:39 AM,7:08 AM,1.0,No,No,No,0.5,dobar,dobar,Carissa,Woods
+95,96,2,Normalno,0.2,6:35 AM,6:22 AM,1.0,No,Yes,No,0.75,dovoljan,odličan,Hayes,Hobbs
+96,97,2,Normalno,0.8,10:42 AM,8:26 AM,1.0,Yes,Yes,Yes,0.25,dobar,dobar,Garth,Harrington
+97,98,1,Kratko,1.0,3:53 AM,5:02 AM,1.0,Yes,Yes,Yes,1.0,dobar,vrlo dobar,Drew,Nash
+98,99,2,Normalno,0.2,5:00 AM,9:05 AM,0.5,No,Yes,Yes,1.0,vrlo dobar,dobar,Preston,Shaffer
+99,100,2,Kratko,0.8,12:40 AM,7:03 AM,0.0,Yes,Yes,Yes,0.5,dobar,dovoljan,Philip,Douglas
